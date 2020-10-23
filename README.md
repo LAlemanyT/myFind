@@ -30,11 +30,11 @@ command passed in or by an inexistent optional extra command.
 
   My find was coded in and is optimized for an Ubuntu operating system.
 
-#Testing
+# Testing
 
   Testing was performed via input/output text files.
 
-#Issues
+# Issues
 
     - Due to an unclear definition of what should cause a "NONZERO EXIT ERROR",
       this error message can be a little inconsistent sometimes.
