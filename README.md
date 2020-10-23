@@ -8,8 +8,8 @@ Additionally, it can run extra Unix commands in addition to myfind.
 
 The syntax to run the command is:
 
-  myfind.py [--regex=<pattern> | --name=<filename>] <directory> <optional command>
-
+  myfind.py [--regex=pattern | --name=filename] [directory] [optional-command]
+  
     directory: path (absolute or relative) to the start point of the search.
 
     regex/name: either a regex pattern or filename to search for (can use none and can't use
