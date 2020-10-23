@@ -34,7 +34,18 @@ command passed in or by an inexistent optional extra command.
 
   Testing was performed via input/output text files.
 
+<<<<<<< HEAD
+  It consists of several paired .in and .out files in the test directory. Once
+again, they were designed to run in a controlled Unix environment with the same
+file structure as the repository minus this (README) file.
+
+  The rest of the directories and files present are exclusively there for the
+sake of testing and are not relevant to the code itself. 
+
+#Issues
+=======
 # Issues
+>>>>>>> c679bb29c4458300d2af96148c57a017456bd2ec
 
     - Due to an unclear definition of what should cause a "NONZERO EXIT ERROR",
       this error message can be a little inconsistent sometimes.

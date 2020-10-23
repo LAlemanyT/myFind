@@ -1,0 +1,12 @@
+test/noDirectory.in
+test/noArguments.in
+test/nameAndFlags.in
+test/flagsAndRegexWithSpaces.in
+test/relativeAndFlags.in
+test/operatingWithFlags.in
+test/relativePath.in
+test/invalidCommandNoPath.in
+test/fileDoesntExist.in
+test/example.in
+test/tooManyArguments.in
+test/regexForStart.in

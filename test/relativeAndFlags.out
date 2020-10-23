@@ -1,0 +1,11 @@
+total 8
+drwxr-xr-x 3 user user 4096 Oct  6 04:52 b
+-rw-r--r-- 1 user user   10 Oct  6 04:52 file.txt
+-rw-r--r-- 1 user user 10 Oct  6 04:52 a/file.txt
+total 8
+drwxr-xr-x 3 user user 4096 Oct  6 04:52 c
+-rw-r--r-- 1 user user   10 Oct  6 04:52 file.txt
+-rw-r--r-- 1 user user 10 Oct  6 04:52 a/b/file.txt
+total 4
+drwxr-xr-x 2 user user 4096 Oct  6 04:52 file.txt
+total 0

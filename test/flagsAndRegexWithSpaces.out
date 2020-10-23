@@ -1,0 +1,5 @@
+cat: '/home/testy test': Is a directory
+1  #!/bin/bash
+2
+3  echo hi
+cat: '/home/testy test/testy test': Is a directory

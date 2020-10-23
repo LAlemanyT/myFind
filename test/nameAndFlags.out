@@ -1,0 +1,4 @@
+10 /home/a/file.txt
+10 /home/a/b/file.txt
+wc: /home/a/b/c/file.txt: Is a directory
+0 /home/a/b/c/file.txt
